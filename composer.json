@@ -1,10 +1,10 @@
 {
-  "name": "wapnen/google-cloud-vision-php",
+  "name": "bpocallaghan/google-cloud-vision-php",
   "description": "A simple php library for the google cloud vision API ",
   "keywords": ["google cloud vision api", "computer vision", "machine learning", "php"],
   "type": "package",
     "require": {
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^7.1"
     },
     "license": "MIT",
     "authors": [{
